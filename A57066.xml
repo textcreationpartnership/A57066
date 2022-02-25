@@ -1,0 +1,204 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The saints submission to the will of God. Or, A sermon preached at the funerall of a vertuous young gentleman, Mr. William Elmes the only son and heir of Thomas Elmes, of Warmington in the county of Northampton, Esquire. By Richard Resbury, minister of Oundle.</title>
+            <author>Resbury, Richard, 1607-1674.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57066</idno>
+            <idno type="STC">Wing R1135A</idno>
+            <idno type="STC">ESTC R219670</idno>
+            <idno type="EEBO-CITATION">99831124</idno>
+            <idno type="PROQUEST">99831124</idno>
+            <idno type="VID">35586</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57066)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35586)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2039:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The saints submission to the will of God. Or, A sermon preached at the funerall of a vertuous young gentleman, Mr. William Elmes the only son and heir of Thomas Elmes, of Warmington in the county of Northampton, Esquire. By Richard Resbury, minister of Oundle.</title>
+                  <author>Resbury, Richard, 1607-1674.</author>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by T.C. for J. Wright, at the Kings Head in the Old-baily,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Some running titles read: The saints subjection to the will of God.</note>
+                  <note>Signatures: A-B⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Funeral sermons --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35586:1" rendition="simple:additions"/>
+            <p>THE SAINTS SUBMISSION TO THE WILL of GOD.</p>
+            <p>
+               <hi>OR,</hi> A Sermon preached at the Funerall of a vertuous young Gentleman, M<hi rend="sup">r</hi>. WILLIAM ELMES, The only Son and Heir of THOMAS ELMES, of <hi>Warmington</hi> in the County of <hi>Northampton,</hi> Eſquire.</p>
+            <p>BY RICHARD RESBURY, Miniſter of <hi>Oundle.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>T. C.</hi> for <hi>J. Wright</hi> at the Kings Head in the Old-baily. 1654.</p>
+            <pb facs="tcp:35586:2"/>
+            <pb facs="tcp:35586:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:35586:3"/>
+            <pb facs="tcp:35586:3"/>
+            <head>TO THE READER.</head>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">A</seg>
+               </hi> Few words in way of preface to the ſhort diſcourſe enſuing. The Argu<g ref="char:EOLhyphen"/>ment is, ſubmiſſion to the Will of God in caſes of ſoreſt tryall. The occaſion, the ſudden and untimely death of a very hopefull Gentleman, the Top-branch of a very worthy family, who was found fallen from his horſe, and ready to expire; which in a very ſhort time he did, againſt all endeavours to have preſerved ſo precious a treaſure as his life. Circumſtances brought in to the Jury, made it appeare to them, that the cauſe of his death, and fall in order thereto, was an inward impoſthume. Was it not too far below him to queſtion it, I would againſt all ungrounded ſurmiſes of whomſoever, give this cleare teſtimony, up<g ref="char:EOLhyphen"/>on full enquiry and ſatisfaction, that as in his conſtant courſe, ſo at this time too, he was
+<pb facs="tcp:35586:4"/>free from all diſtemper and exceſſe. I have but one word more; It was my deſire, ſince it was thought fit this little piece ſhould paſſe the preſſe, to have put it into a better form, and ſet forth the diſcourſe more full; but multitude of emergent and unexpected oc<g ref="char:EOLhyphen"/>caſions have wholy raviſht my time from me; that as an Embryo it comes forth, rather then as a timely birth. If it might be of any uſe unto thy ſoul, according to the end inten<g ref="char:EOLhyphen"/>ded, I ſhall rejoyce, reſting,</p>
+            <closer>
+               <signed>Thy true friend in the Lord, R. RESBURY.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:35586:4"/>
+            <head>The Saints ſubmiſſion to the Will of God.</head>
+            <epigraph>
+               <bibl>
+                  <hi>1 Sam. 3.18.</hi>
+               </bibl>
+               <q>It is the Lord, let him doe what ſeemeth him good.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>Imes of ſad trials are even to the Saints themſelves; times of great perplexity and diſcompoſure: an hard thing then to finde the true path of duty towards God, and walk in it with an even foot: dark times, and ſtormy times; the ſpirits of the Saints, like a veſſell in a troubled ſea by night; a difficult thing to ſteere a right courſe: like way<g ref="char:EOLhyphen"/>farers benighted in a Wilderneſſe, hard to finde their paths. The Word of God is a light in a dark place, richly furniſhed for direction in all caſes. The pole Star appearing to guide our nightly courſe in the moſt tumultuous ſeas, it is as the pillar of the cloud, and of fire to <hi>Iſrael</hi> in the Wilderneſſe.</p>
+            <p>That the neer relations of this deſeaſed Gen<g ref="char:EOLhyphen"/>tleman are under a ſad triall, needs muſt we all be ſenſible; Nay, who amongſt us, to whom he
+<pb facs="tcp:35586:5"/>was known, is not touched with it. A Gentle<g ref="char:EOLhyphen"/>man, the hopes of his family, an onely ſonne to ſo worthy parents, ſingularly vertuous, of lovely demeanour, cut off in the flower of his age, and that by ſuch a ſudden ſtroak. Raviſht from the dear embraces of all his friends, by an unexpected ſurpriſall. O it is a dark time; now for a light to ſhew unto poore benighted wanderers their way, that they may not loſe themſelves. Now for a word of ſure direction how to order our ſpirits towards god in ſuch a time as this: Oh bleſſed be our wiſe God, who hath here given us his good word, to be a light to our feet, a lanthorn to our ſteps, at this time, and in this Wilder<g ref="char:EOLhyphen"/>neſſe, in this portion of Scripture now read unto you.</p>
+            <p>It is the anſwer of good old <hi>Eli</hi> unto <hi>Samuel,</hi> upon a moſt ſevere and terrible meſſage delive<g ref="char:EOLhyphen"/>red him from God. The meſſage from the 11. to the 15. v. referring to the 2. chap. 31. to the end. This <hi>Samuel</hi> delivers to the full in the 18 verſe; <hi>Elies</hi> anſwer, and anſwer of clear and ready ſubmiſſion (without either the leaſt murmuring, or diſputing) unto the will of God. And here now from an excellent preſident we may con<g ref="char:EOLhyphen"/>clude this Doctrine.</p>
+            <p>
+               <hi>In all our ſaddeſt changes whatſoever,</hi>
+               <note place="margin">Doct.</note> 
+               <hi>as they are diſpoſed to us by the hand of God, ſo it is our duty freely to ſubmit unto his will.</hi>
+            </p>
+            <p n="1">1. We are to take notice of them, as from him whoſe providence reacheth to the numbring of
+<pb facs="tcp:35586:5"/>our haires, to the fall of a Sparrow to the ground, much more doth he determine our daies, num<g ref="char:EOLhyphen"/>ber our months, and appoint our bounds, that we cannot paſſe; in whom we live, and move, and have our being; in whoſe hands is our breath, and all our waies.</p>
+            <p>We are freely to ſubmit to his will, to reſigne our ſelves to his whole pleaſure. The former of theſe we ſhall paſſe over, and inſiſt onely upon this. Now a cleare and full confirmation of this we have here in my Text, and the Hiſtory to which it relates.</p>
+            <p>Here is a moſt ſad change threatned in due time, and that very ſhortly too, to be fulfilled: the whole poſterity of <hi>Eli,</hi> both for the preſent and for enſuing generations were to be cut off untimely, 2. chap. 31, 32, 33. This ſtroak upon them ſhould be accompanied with publique judgement upon the whole Nation, through their ſinne, verſ. 32. Such ſhould be the miſery of his poſterity whilſt alive, that ſhould he live to ſee it, it ſhould be a moſt horrible vexation to him, verſ. 33. His two ſonnes, (I think all hee had) ſhould in and for their ſins (as farre as ap<g ref="char:EOLhyphen"/>peares) be cut off by the hand of an enemy at once, verſ. 34. From the whole race and family the Prieſthood to be removed, verſ. 35. to ut<g ref="char:EOLhyphen"/>moſt beggery and baſeneſſe ſhould his off-ſpring be reduced, verſ. 36. all this moſt certainly to be accompliſhed with evidence of greateſt wrath upon his poſterity, chap. 3. verſ. 11. to 15. and
+<pb facs="tcp:35586:6"/>that in way of judgement for his ſinne, verſ. 13.</p>
+            <p>Now when he hath heard all this, what anſwer makes he? doth he exclaime? Oh, who is able to beare ſo great ſeverity from the Lord? doth he diſpute? and why? for the children that are yet unborn? ſhall the wrath of the Lord reach unto them? none of theſe things, but it is the Lord. This will conclude then the ſaddeſt ca<g ref="char:EOLhyphen"/>ſes, and much more ſad then this before us: 1. This providence is ſhut up in one; here is no<g ref="char:EOLhyphen"/>thing threatned for the future. 2. In this provi<g ref="char:EOLhyphen"/>dence is no character of wrath: of unaccounta<g ref="char:EOLhyphen"/>ble dominion, and arbitrary pleaſure there is, but not of wrath: For,</p>
+            <p n="1">1. Here is no ſingular provocation declared againſt, in recompence whereof this ſtroake ſhould be by way of judgement from the Lord.</p>
+            <p n="2">2. It is ſuch a ſtroak as may befall Gods chil<g ref="char:EOLhyphen"/>dren, <hi>Eccleſiaſtes</hi> chap. 9. verſ. 1, 2. as hath befal<g ref="char:EOLhyphen"/>len ſuch: <hi>Jobs</hi> children; nothing appeares but they all died the children of God; not imagina<g ref="char:EOLhyphen"/>ble that none of them died ſo, yet their ſtroak far greater.</p>
+            <p n="3">3. The life of this Gentleman who fell under it, gives very hopefull teſtimony againſt wrath in this ſtroak: that he was of a blameleſſe and untoucht converſation, ſo free from the vanities and evils of youth, as it will be hard to finde his match; all that know him, and obſerved him, can witneſſe of him: free from pride, modeſt and ſober in his attire above moſt his equals
+<pb facs="tcp:35586:6"/>in eſtate, and birth. Nay, (as I am informed) would upon occaſion declare his great diſlike of pride and vanity that way, and utterly refuſe for himſelfe, that which in this proud and vaine age paſſeth for currant, with many others: Free from exceſſe and riot, free from vanity in his ſpeech, above moſt; hating all immodeſt and corruption therein: his converſation and de<g ref="char:EOLhyphen"/>porture affable and lovely, not onely inoffenſive, but obliging: theſe things might appeare to all that knew but his outſide; but they that knew him more inwardly, knew much more. And that which ſpeaks him not onely a vertuous morraliſt, but very hopefully a gracious Chriſtian, a dili<g ref="char:EOLhyphen"/>gent attender upon publique Ordinances in love; diligent in duties of private converſe with God; of tender and humble affections in thoſe duties, often obſerved to riſe from his knees in family prayer, with teares in his eyes: diligent in the holy obſervation of the Sabbath; ever againſt detaining any the meaneſt ſervant at home, more then needs muſt, for making ready proviſion for the body; looking upon it as a wrong to their ſoules who had as great a right to the publique ordinances, as the greateſt in the family. But theſe things by the way, partly for caution a<g ref="char:EOLhyphen"/>gainſt thoſe miſconſtructions which the blinde world are apt to make of ſuch remarkable pro<g ref="char:EOLhyphen"/>vidences befalling the Saints: partly to minde thoſe upon whoſe ſpirits this providence ſits hea<g ref="char:EOLhyphen"/>vieſt, how much it behooves them with all
+<pb facs="tcp:35586:7"/>clearneſſe of ſpirit, to ſubmit to the will of God herein; it being farre ſhort of that ſad inport which is found in many caſes, wherein yet it is highly our duty to ſubmit to the will of God; and particularly of this in my Text, wherein we finde ſo cleare a ſubmiſſion. The hopefull piety of the perſon deceaſed, as likewiſe of the fami<g ref="char:EOLhyphen"/>ly, takes away the ſting of this preſent griefe and trouble, and renders it much more light.</p>
+            <p>We now return to the Doctrine, <hi>In all our ſad<g ref="char:EOLhyphen"/>deſt changes whatſoever, as they are diſpoſed to us by the hand of God, ſo it is our duty freely to ſubmit unto his will.</hi> Another inſtance or two, <hi>Job</hi> 1.21. 2 <hi>Sam.</hi> 15.25, 26. the higheſt of all, <hi>Matth.</hi> 26.39, 42. one thing prayed for in that petition, is, <hi>Thy will be done.</hi>
+            </p>
+            <p>
+               <hi>Reaſons.</hi> The Will of God,</p>
+            <p n="1">1. It is a moſt ſoveraigne will. God hath abſo<g ref="char:EOLhyphen"/>lute and unaccountable dominion over man, o<g ref="char:EOLhyphen"/>ver all creatures, becauſe Creator: Dominion amongſt men, according to the eminency of the Superior, and the dependency of the inferiour: God infinitely eminent, the creature wholy de<g ref="char:EOLhyphen"/>pendent. Upon this account the Apoſtle anſwers that great objection, againſt Gods arbitrarineſſe in his decrees of election and reprobation, at which the Jeſuiticall and Arminian generation ſo endleſly quarrell. <hi>Rom.</hi> 9.20, 21. with 11, 12, 13, &amp; 18, verſes, <hi>Auſtin</hi> ſpeaks high here.</p>
+            <p>If mankind, which was (as it is evident) at firſt created of nothing, ſhould be born without the
+<pb facs="tcp:35586:7"/>originall debt of death and ſin; and yet of thoſe the Almighty Creator ſhould will to condemn ſome to everlaſting deſtruction; who might ſay to the Almighty Creator, why haſt thou done thus? for he, who when they were not, had given them to be, had it in his own power to what their end ſhould be: Neither might the reſt ſay, why when their merits are alike, is the divine judge<g ref="char:EOLhyphen"/>ments ſo unlike? becauſe the Potter hath power over the clay, to make of the ſame lump one verſ<g ref="char:EOLhyphen"/>ſel indeed to honour, another to diſhonour: it is an uncreature-like temper to maintain reluctancy againſt the will of God.</p>
+            <p n="2">2. It is a moſt righteous will: the Lord never wils any thing, nor accordingly doth any thing, wherein he ſwerves one haire from the rule of righteouſneſſe, or wrongs the creature in the leaſt, <hi>Pſalm</hi> 145. verſ. 17. eminent in righte<g ref="char:EOLhyphen"/>ouſneſſe, <hi>Pſalm</hi> 36. verſ. 6. in his moſt obſcure adminiſtrations, where his righteouſneſſe is leaſt viſible to us, yet the Saint alwaies lay down this as a ſure concluſion, <hi>Jerem.</hi> 12.1, 2. And here: We deſerve greater ſufferings then what in this world befalls us, needs then muſt non-ſubjection to Gods will be a very unrighteous thing. Apply two ſtreight things together, they cloſe all along; that which cloſeth not with what is ſtreight, muſt needs be crooked.</p>
+            <p n="3">3. Its a moſt holy will. The Lord wils nothing but in greateſt holineſſe, and accordingly doth nothing wherein he ſwerves from the rule of holi<g ref="char:EOLhyphen"/>neſs
+<pb facs="tcp:35586:8"/>in the leaſt meaſure, he is holy in al his works; the holy one of <hi>Iſrael,</hi> cellebrated by the bleſſed Angels; <hi>Holy, Holy, Holy Lord God:</hi> ſo pure that the Heavens are impure in his ſight. Hence the Saints when they make their addreſſes to God, about thoſe his providences wherein they can diſcern leaſt of his holineſs, yet this acknowledg<g ref="char:EOLhyphen"/>ment they hold faſt, that he is moſt Holy, 1. Chap. <hi>Habakkuk</hi> 13, 14. <hi>The Sun and his beames remaine pure, though ſhining through a thick glaſs:</hi> the re<g ref="char:EOLhyphen"/>ſiſtings then of the moſt holy will of God, muſt needs it ſelf be unholy.</p>
+            <p n="4">4. 'Its a will in conjunction with greateſt wiſ<g ref="char:EOLhyphen"/>dome, proceeding in all things according to wi<g ref="char:EOLhyphen"/>ſeſt counſels, doing all things in trueſt order, manner, ſeaſon, and beauty: <hi>The Lord in wiſdome made all things.</hi> 3. Chap. <hi>Proverbs,</hi> 19, 20. <hi>In wiſ<g ref="char:EOLhyphen"/>dom doth he order all things who works all after the counſels of his own will, Epheſ.</hi> 1.11. <hi>Makes every thing beautiful in its time, Eccleſ.</hi> 3.11. A ſet time and appointed ſeaſon there is for every event known to him, and ordered by him exactly, and is made truly beautiful, though to us it appears orther<g ref="char:EOLhyphen"/>wiſe; we ſhall know hereafter the beauty of his Providences in all caſes whatſoever: therefore 'its great and perverſe folly to repine againſt his will. Upon theſe accounts 'its the duty of all men to ſubmit (without all murmering and diſ<g ref="char:EOLhyphen"/>puting) to his will: but further as to the Saints, to them it is</p>
+            <p n="5">5. A moſt gracious will: whatſoever the out<g ref="char:EOLhyphen"/>ſide
+<pb facs="tcp:35586:8"/>of any providence may be, mercy is the in<g ref="char:EOLhyphen"/>ſide to them: mercy is the Soul, whatſoever the Body of it may be, <hi>Pſal.</hi> 25.10. Some of his paths are rough and thorny too; ſome of them are dreadful to the eye, but all mercy and all truth to ſuch: mercy in faithfulneſs, having Co<g ref="char:EOLhyphen"/>venanted to ſhew mercy to them in all his deal<g ref="char:EOLhyphen"/>ings with them; all providences work together for good to thoſe that love him: Oh! the bleſ<g ref="char:EOLhyphen"/>ſed condition of the Saints, nothing befalls them but in mercy, nothing but for their good. The wicked are ſcourged, they are ſcourged with one and the ſame rod, the ſtroaks in outward appea<g ref="char:EOLhyphen"/>rance equal. Yet the wicked in wrath, they in mercy: The wicked as ſlaves, they as Children: The wicked for their ruin, they for their advan<g ref="char:EOLhyphen"/>tage: The wicked for their deſtruction, they for inſtruction. This mercy added to the reſt of ex<g ref="char:EOLhyphen"/>cellent properties of Gods will, makes it lovely indeed: It laies it in fair colours, puts the varniſh upon it, whoſoever have reaſon to ſubmit, they have: 'its perverſneſs, unthankfulneſs, abſurdi<g ref="char:EOLhyphen"/>ty of ſpirits not to ſubmit to the will of God, diſ<g ref="char:EOLhyphen"/>poſing mercie to us.</p>
+            <p n="6">6. It is a perfect will, what the Apoſtle ſpeaks of his revealed will, or his word according to his will, <hi>Rom.</hi> 12.2. is true of his whole will, whi<g ref="char:EOLhyphen"/>ther revealed, or ſecret; whether expreſt in word or work: perfect, as he is perfect. Now perfection comprehends and ſhuts up in it all that is good, all that is obliging, ſoveraignity, righte<g ref="char:EOLhyphen"/>ouſneſse,
+<pb facs="tcp:35586:9"/>holineſſe, wiſdome, mercy, faithfulneſs, beauty, majeſty; whatſoever is excellent all is contained in perfection: it is great imperfection, then in man and manifold to harbour diſpleaſure in his breaſt againſt the will of God, whatſoever ſufferings or troubles it diſpoſeth to us.</p>
+            <p n="1">1. To meditate theſe excellencies of the divine Will in all croſſe providences that befal us,<label type="milestone">
+                  <seg type="milestoneunit">Ʋſe. </seg>
+               </label> for calming our ſpirit and bringing us to clear and free ſubjection to it: expoſtulating with our own ſoules againſt all their unquietneſs and tu<g ref="char:EOLhyphen"/>multuouſneſs. Two things here to be warnd of: all harſh thoughts of the Lord and his works, that may any way leſſen our love to him,<milestone type="tcpmilestone" unit="unspecified" n="1"/> and our truſt in him: Would we have worſe thoughts of our Phyſitian becauſe the Phyſick is diſtaſtful to the palate.<milestone type="tcpmilestone" unit="unspecified" n="2"/> See <hi>Iſaiah</hi> 40.27. Tumultuous diſpu<g ref="char:EOLhyphen"/>ting the works and wayes of God, queſtioning the worthineſſe of his proceedings; the Saints themſelves apt through infirmities to run into this. <hi>Job.</hi> 10.2, 3. <hi>Pſal.</hi> 73.2.13, 14. This is un<g ref="char:EOLhyphen"/>warrantable; God taketh <hi>Job</hi> for ſuch excurſions and extravagances of ſpirit and ſpeech. The <hi>Pſalmiſt</hi> confeſſeth of himſelfe therein, verſe 22. it is malepertnes in the creature thus to do.</p>
+            <p n="2">2. To take comfort in the ſaddeſt events, that all is in mercy to the Saints; <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe. </seg>
+               </label> what though? yet thou ſeeſt it not; if Sea-ſick in a ſtorme at Sea, thou for the preſent findes but little good; but, thou ſhalt have the fruit of it. All his paths are mercy. Thoſe of greateſt weight, and moſt re<g ref="char:EOLhyphen"/>markable
+<pb facs="tcp:35586:9"/>accordingly of greateſt mercy. Courſe veſſels, but fraught with richeſt treaſure.</p>
+            <p n="3">3. To labour to find out and to lay hold on the good that ſuch a providence is fraught with,<label type="milestone">
+                  <seg type="milestoneunit">Ʋſe. </seg>
+               </label> and for which it is ſent: Labour to find, firſt, what ſin eſpecially it is ſent to correct. Conſider thy heart and wayes hereupon. Secondly, what grace or what duties it is ſent to quicken: for thus it becomes a path of mercy to the Saints, that they make uſe of it for theſe ends.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
